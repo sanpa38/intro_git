@@ -1,3 +1,5 @@
 はじめてのGIT ver.1
 git command
 git status
+git status
+git diff
